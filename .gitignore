@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.rag_index/
+*.py[cod]
+.DS_Store
